@@ -36,7 +36,6 @@
 
 <span style="color:#FFD700">由于传输原因，第一级文件夹可忽略。</span>
 
-```text
 <span style="color:#2E8B57">.</span>
 <span style="color:#B22222">├── 结构件Gcode</span>
 <span style="color:#FF69B4">│   ├── BAse17.12g1pcs.gcode        # 下底盘</span>
@@ -55,7 +54,6 @@
 <span style="color:#00CED1">│</span>
 <span style="color:#FF4500">└── 小车代码</span>
 <span style="color:#9400D3">    └── proj3_rubbish.ino           # !?史?!</span>
-```
 
 ---
 
